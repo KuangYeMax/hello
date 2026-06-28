@@ -5,5 +5,5 @@
 ### 公司有实力
 
 ```javascript
-hello wo
+hello wow!
 ```
